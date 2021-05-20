@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fairy Catching</string>
+
+    <string name="title_activity_game_start">GameStartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_game_finish">GameFinishActivity</string>
+
+    <string-array name="character_speed_array">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
